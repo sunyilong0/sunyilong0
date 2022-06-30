@@ -17,7 +17,7 @@
 - 🔭 I graduated from  [**@Hainan University**](https://ha.hainanu.edu.cn/home2020/) with a bachelor's degree.
 - 🤾‍♂️ I am also the director of FinML group of Hainan University Robotics and Artificial Intelligence Association
 - 🌱 I mainly study data science and financial risk.
-- 📫 You can reach me at [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com).
+- 📫 You can reach me at [yl.sun0@qq.com](mailto:yl.sun0@qq.com).
 - 🎨 Currently learning the basics about streaming data processing and bilevel programming.
 - ❤️ Welcome to contact me to discuss the problem together!
 <!-- markdownlint-restore -->
