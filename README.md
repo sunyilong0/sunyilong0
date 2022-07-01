@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. I have only uploaded some coursework on my Github before, and I will be involved in more projects and do something practical.
 
 <h3 align="center"> Sun Yilong✨ </h3>
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sunyilong0 " /> </div>
