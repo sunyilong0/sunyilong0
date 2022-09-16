@@ -14,10 +14,10 @@
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-- 🔭 I graduated from  [**@Hainan University**](https://ha.hainanu.edu.cn/home2020/) with a bachelor's degree.
-- 🤾‍♂️ I am also the director of FinML group of Hainan University Robotics and Artificial Intelligence Association
+- 🔭I am a graduate student at [**@South China University of Technology**](https://www.scut.edu.cn/en/) .
+- 🤾‍♂️ I am also the director of FinML group of  Robotics and Artificial Intelligence Association
 - 🌱 I mainly study data science and financial risk.
-- 📫 You can reach me at [yl.sun0@qq.com](mailto:yl.sun0@qq.com).
+- 📫 You can reach me at [ yl.sun@ieee.org](mailto: yl.sun@ieee.org).
 - 🎨 Currently learning the basics about streaming data processing and bilevel programming.
 - ❤️ Welcome to contact me to discuss the problem together!
 <!-- markdownlint-restore -->
