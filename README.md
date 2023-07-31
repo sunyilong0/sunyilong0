@@ -17,7 +17,7 @@
 - 🔭I am a graduate student at [**@South China University of Technology**](https://www.scut.edu.cn/en/) .
 - 🤾‍♂️ I am also the director of FinML group of  Robotics and Artificial Intelligence Association
 - 🌱 I mainly study data science and financial risk.
-- 📫 You can reach me at [ yl.sun@ieee.org](mailto: yl.sun@ieee.org).
+- 📫 You can reach me at [bm1@mail.scut.edu.cn](mailto: bm1@mail.scut.edu.cn).
 - 🎨 Currently learning the basics about streaming data processing and bilevel programming.
 - ❤️ Welcome to contact me to discuss the problem together!
 <!-- markdownlint-restore -->
